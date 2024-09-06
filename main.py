@@ -1,5 +1,3 @@
-from random import random
-
 #x = int(input('Здравствуйте хотите записать числа лично? 1 - да , 2 - нет'))
 #y = [1,2,3,4,5,6,7,8,9]
 def GetMatrix(n,m,value):
