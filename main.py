@@ -15,9 +15,9 @@ value = input('Значение матрицы: ')
 print('---' * m)
 matrix = GetMatrix(n,m,value)
 #elif x == 2:
-#    n = random.choice(y)
-#    m = random.choice(y)
-#    value = random.choice(y)
+#n = random.choice(y)
+#m = random.choice(y)
+#value = random.choice(y)
 if n <= 0:
     print('Невозможно вывести нулевое значие')
 elif m <= 0:
